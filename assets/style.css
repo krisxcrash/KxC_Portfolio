@@ -1,0 +1,46 @@
+/* Navbar Design */
+
+.navbar-layout {
+	border-bottom: 5px solid #00FFCD;
+}
+
+/* Jumbotron */ 
+
+.jumbo-format {
+	margin-top: 60px;
+	padding: 150px;
+	background: url('images/plexus.jpg') no-repeat;
+}
+
+h1.jumbo-h1 {
+	color: #fff;
+}
+
+/* Typewriter Effect */ 
+
+.typewrite {
+	color: #00FFCD;
+}
+
+/* Portfolio */ 
+.gallery {
+	padding: 0 0 150px 0;
+}
+
+/* Footer Design */
+
+#footer {
+	font-size: 10px;
+	text-align: center;
+	color: #dddddd;
+	background: #333333;
+	border-top: 5px solid #00FFCD;
+	position: fixed;
+	left: -90px;
+	bottom: 0;
+	width: 110%;
+	bottom: 0;
+	grid-row-start: 2;
+	grid-row-end: 3;
+	padding: 12px 0;
+}
