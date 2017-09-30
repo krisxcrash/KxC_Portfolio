@@ -6,20 +6,36 @@
 
 /* Jumbotron */ 
 
+.container-format {
+	margin: 0;
+	padding: 0;
+}
+
 .jumbo-format {
 	margin-top: 60px;
-	padding: 150px;
-	background: url('images/plexus.jpg') no-repeat;
+	padding: 200px;
+	background: url('images/plexus2.png') no-repeat;
 }
 
 h1.jumbo-h1 {
 	color: #fff;
+	
+}
+
+/* Portfolio */
+
+.portfolio-design {
+	color: #00FFCD;
 }
 
 /* Typewriter Effect */ 
 
 .typewrite {
 	color: #00FFCD;
+}
+
+.body-format {
+	padding: 
 }
 
 /* Portfolio */ 
